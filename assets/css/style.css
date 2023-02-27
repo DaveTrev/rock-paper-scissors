@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#wrapper {
+    max-width: 300px;
+    padding-top: 200px;
+    padding-left: 300px;
+    position: absolute;
+  }
