@@ -1,5 +1,5 @@
 ## Rock, Paper, Scissors
-
+-live deployment https://davetrev.github.io/rock-paper-scissors/
 
 ## resources and links used
 - https://www.youtube.com/watch?v=RwFeg0cEZvQ 3 ways to code rock paper scissors
