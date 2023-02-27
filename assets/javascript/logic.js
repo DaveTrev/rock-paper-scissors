@@ -56,3 +56,10 @@ if (computerChoice === 'Scissors' && userChoice === 'Paper') {
 }
 resultDisplay.innerHTML = result;
 }
+
+// create a tally of score of wins and losses between user and computer
+function incrementScore() {
+
+    let oldScore = parseInt(document.getElementById("score").innerText);
+    document.getElementById("score").innerText = ++oldScore; 
+}

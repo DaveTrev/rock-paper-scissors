@@ -5,8 +5,8 @@
 }
 
 #wrapper {
+    display: block;
     max-width: 300px;
-    padding-top: 200px;
-    padding-left: 300px;
-    position: absolute;
+    top: 50%;
+    left: 50%
   }
